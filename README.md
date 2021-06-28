@@ -12,3 +12,10 @@ git submodule update
 ```
 
 The `hugo-shell` executable runs a single command: `docker run --rm -it -p 1313:1313 --user "$(id -u):$(id -g)" -v $(pwd):/src klakegg/hugo:ext-alpine shell`. It requires Docker, and gives you access to the `hugo` command. I did this because it was the easiest way to get hugo up and running in a pinch.
+
+### TO USE
+
+0. Launch the `hugo-shell` Docker container with the `docker run` command from above, or `./hugo-shell`.
+1. Within the `hugo-shell` container, run the command `hugo -D`
+2. Copy the contents of *data/public* to your server's web root directory.
+
