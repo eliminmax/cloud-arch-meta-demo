@@ -1,7 +1,7 @@
 # Cloud Architecture
 
 This is the directory for the Hugo site that I slapped together as part of a presentation on cloud architecture.
-
+**NOTE: Now that the website has been presented, this repository is no longer mainained, and the referenced sites will shut down by midnight July 1st, 2021, Eastern Daylight Time.**
 ## IMPORTANT:
 
 This git repository includes a submodule - another git repository included within it. Unless you clone it with the `--recurse-submodules` flag, **it will not work as-is**. To get it to work, run the following commands:
