@@ -1,6 +1,7 @@
 # Cloud Architecture
 
 This is the directory for the Hugo site that I slapped together as part of a presentation on cloud architecture.
+
 **NOTE: Now that the website has been presented, this repository is no longer mainained, and the referenced sites will shut down by midnight July 1st, 2021, Eastern Daylight Time.**
 ## IMPORTANT:
 
