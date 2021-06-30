@@ -15,10 +15,12 @@ showFullContent = false
 Cloud Architecture
 
 Many similar explanations of cloud architecture and related concepts are out there, but the most succinct comes from a pair of articles from Red Hat.
-[What is cloud infrastructure?](https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-infrastructure)
-> Cloud infrastructure is a term used to describe the components needed for cloud computing, which includes hardware, abstracted resources, storage, and network resources. **Think of cloud infrastructure as the tools needed to build a cloud.** In order to host services and applications in the cloud, you need cloud infrastructure.
+
+# [What is cloud infrastructure?](https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-infrastructure)
+> Cloud infrastructure is a term used to describe the components needed for cloud computing, which includes hardware, abstracted resources, storage, and network resources. **Think of cloud infrastructure as the tools needed to build a cloud.** In order to host services and applications in the cloud, you need cloud infrastructure. <br>
 *(emphasis mine)*
-[What is cloud architecture?](https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-architecture)
+
+# [What is cloud architecture?](https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-architecture)
 > Imagine you're building a house: Cloud infrastructure incorporates all the materials, while cloud architecture is the blueprint.
 
 Cloud architecture can include any of the following:
